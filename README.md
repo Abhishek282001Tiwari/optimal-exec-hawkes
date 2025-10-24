@@ -24,19 +24,20 @@ This research introduces a novel optimal execution framework that integrates Haw
 | Statistical Significance | p < 0.05 across tested scenarios |
 
 ## 🏗️ Project Structure
+
 optimal-exec-hawkes/
-├── notebooks/ # Complete experimental pipeline
+├── notebooks/ Complete experimental pipeline
 │ ├── 01_simulation_and_calibration.ipynb
 │ ├── 02_backtest_baselines.ipynb
 │ ├── 03_sensitivity_analysis.ipynb
 │ └── 04_experiment_matrix.ipynb
-├── scripts/ # Analysis and visualization
-├── calib/ # Hawkes process calibration
-├── sim/ # Market simulation
-├── backtest/ # Strategy evaluation
-├── models/ # Mathematical models
-├── docs/ # Figures and documentation
-└── data/ # Market data (processed)
+├── scripts/ Analysis and visualization
+├── calib/ Hawkes process calibration
+├── sim/ Market simulation
+├── backtest/ Strategy evaluation
+├── models/ Mathematical models
+├── docs/ Figures and documentation
+└── data/ Market data (processed)
 
 
 ## 🚀 Quick Start
