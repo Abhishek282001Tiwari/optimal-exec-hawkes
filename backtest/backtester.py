@@ -342,3 +342,6 @@ __all__ = [
     'ow_strategy',
     'hawkes_lq_strategy'
 ]
+
+
+###most of the codes been edited in recent times mostly becaue of some wrong bactesting results most of the bactest were doen in 2025 {August or December}
